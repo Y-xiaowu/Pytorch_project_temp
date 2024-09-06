@@ -1,1 +1,1 @@
-one simple pytorch project temple
+one simple pytorch_classify project temple
